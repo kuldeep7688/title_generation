@@ -7,10 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-# *.csv
-# *.txt
+*.csv
+*.txt
 *.ipynb
-.Python
+*.Python
+*.pt
 build/
 develop-eggs/
 dist/
